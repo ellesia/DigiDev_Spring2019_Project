@@ -24,7 +24,7 @@ I wondered what kind of headphone set I could create that could speak to others 
 Imagine walking to the train station with your headphones on, jamming out to your one of your many playlists, while the headphones indicate to everyone else around you that you aren't listening. You're in a "do not disturb"-mode. Now you're entering the train and there's a rowdy group enjoying themselves and making a huge commotion. Your headphones since the audio levels and might turn up your volume (to a safe level) and block them out. (I'm using a semi-noise canceling headset for urban environments where you'd still want to have some audio awareness of your surroundings.) Once you're off the train and heading down the back alley to the entrance of your usual dive bar, the volume lowers itself since it's picking up little to now audio in the surrounding area. Once inside you sit at the bar and you start speaking to the locals the headphones indicate to others that you're open to speaking.
 
 
-## Wiring
+## Developing
 ![fritzing setup](/AngleLED_Setup_bb.jpg "fritzing setup")
 
 - **Sensor Used:** MPU6050 Six-Axis (Gyro + Accelerometer) MEMS MotionTracking
@@ -153,5 +153,9 @@ void rainbow(int wait) {
   }
 }
 ```
+
+**Final Thoughts**
+
+
 
 *Ellesia Albert MDes Candidate | Digital Development Course Spring 2019 @ Istitute of Design | Illinois Institute of Technology*
