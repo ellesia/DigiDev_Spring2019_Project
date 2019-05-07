@@ -21,17 +21,20 @@ Imagine walking to the train station with your headphones on, jamming out to you
 ## Wiring
 ![fritzing setup](/AngleLED_Setup_bb.jpg "fritzing setup")
 
-Sensor used: MPU6050 Six-Axis (Gyro + Accelerometer) MEMS MotionTracking
-NeoPixels strip RBG LED
+- Sensor used: MPU6050 Six-Axis (Gyro + Accelerometer) MEMS MotionTracking
+- NeoPixels strip RBG LED
 
 To prototype a form of communication from the headset. I chose an LED light strip that would span the headphone band. When the headphones are in different positions on the user's neck/head the LEDs change to signal different meanings. 
 - "Red" = Do Not Disturb
 - "Green" = Resting State (usually around someone's neck) It's okay to talk.
-- "Yellow" = Listening to music but don't mind the interruption.
+- "Yellow" = Listening to something but don't mind the interruption.
 
 
 ## Coding
 As I've said this was all new to me so I've used a lot of example files to help build a high-level prototype of what I originally planned to create. High-level meaning "in a broad sense" of the original goal. This is exploring one possible function of a larger story.
+
+With this code, whenever the sensor is within the defined angles (either x,y,z) the LEDS will reflect the indicated RGB combinations.
+In this example the LED strip is in a Green resting state, when I lift my sensor (simulating putting the headphones over my ears) the LEDS turn red for "Do not disturb".
 
 ```
 #include <Wire.h>
