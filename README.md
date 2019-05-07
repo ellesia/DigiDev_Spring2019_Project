@@ -154,4 +154,4 @@ void rainbow(int wait) {
 }
 ```
 
-*Digital Development Course Spring 2019 @ Istitute of Design of Illinoies Institute of Technology *
+*Ellesia Albert MDes Candidate | Digital Development Course Spring 2019 @ Istitute of Design | Illinois Institute of Technology*
