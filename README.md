@@ -155,6 +155,8 @@ void rainbow(int wait) {
 ```
 
 **Final Thoughts**
+I enjoyed exploring the potential of the project. When looking back to the example, I thought of more functionality like voice speech, or accessibility options like in the case for people who actually can't speak or have trouble doing it well. If those reading things can take this rough start and envision more capability with better execution, I welcome you.
+
 
 
 
