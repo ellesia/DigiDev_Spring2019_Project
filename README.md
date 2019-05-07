@@ -10,8 +10,8 @@ It wasn't until I, unfortunately, dropped my favorite pair of headphones on the 
 To me, they were a sign communicating to others that "I can't hear you." More importantly, "I don't want to speak (to you/right now/at all)". However, they don't do this job well enough. 
 
 As headphones sets are now it's one-way communication: You listen to them. (not including sets with mics)
--They don't listen to you or anyone else.
--They don't speak to you or anyone else.
+- They don't listen to you or anyone else.
+- They don't speak to you or anyone else.
 
 I wondered what kind of headphone set I could create that could speak to others for you. What if they could also sense your environment and make changes.
 
