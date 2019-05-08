@@ -160,4 +160,4 @@ I enjoyed exploring the potential of the project. When looking back to the examp
 
 
 
-*Ellesia Albert MDes Candidate | Digital Development Course Spring 2019 @ Istitute of Design | Illinois Institute of Technology*
+*Ellesia Albert MDes Candidate | Digital Development Course Spring 2019 @ Institute of Design | Illinois Institute of Technology*
